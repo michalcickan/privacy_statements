@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <title>Privacy Policy - TrackM3</title>
+  <style>
+      body {
+          font-family: Arial, sans-serif;
+          line-height: 1.6;
+          margin: 0;
+          padding: 20px;
+          color: #333;
+          max-width: 800px;
+          margin: 0 auto;
+      }
+
+      h1 {
+          color: #444;
+          text-align: center;
+      }
+
+      h2 {
+          color: #555;
+          margin-top: 24px;
+      }
+
+      footer {
+          margin-top: 30px;
+          text-align: center;
+          font-size: 0.9em;
+          color: #777;
+      }
+  </style>
+</head>
+<body>
+<h1>Privacy Policy for TrackM3</h1>
+<p><strong>Effective Date:</strong> April 14, 2026</p>
+
+<p>Michal Cickan ("we," "us," or "our") operates the TrackM3 mobile application (the "App"). This page informs you of
+  our policies regarding the collection, use, and disclosure of personal data when you use the App.</p>
+
+<h2>1. Information Collection and Use</h2>
+<p>We do not collect any personal data from users of the App. The App does not require registration, user accounts, or
+  access to sensitive device permissions.</p>
+<p>The App does not use third-party analytics, advertising, or tracking services.</p>
+
+<h2>2. Log Data</h2>
+<p>In the event of a crash or error, the App may generate anonymous log data (e.g., device type, OS version) to help us
+  diagnose and fix issues. This data does not include personal information.</p>
+
+<h2>3. Changes to This Privacy Policy</h2>
+<p>We may update this policy occasionally. We will notify you of any changes by updating the "Effective Date" at the top
+  of this page. You are advised to review this page periodically for updates.</p>
+
+<h2>4. Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us at:</p>
+<p><a href='mailto:your.email@example.com'>your.email@example.com</a></p>
+
+<footer>
+  <p>By using the App, you agree to the terms of this Privacy Policy.</p>
+</footer>
+</body>
+</html>
